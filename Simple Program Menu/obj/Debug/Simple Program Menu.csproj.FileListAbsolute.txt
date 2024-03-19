@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Desktop\PP Namias\Simple Program Menu\Simple Program Menu\bin\Debug\Simple Program Menu.exe.config
+C:\Users\ADMIN\Desktop\PP Namias\Simple Program Menu\Simple Program Menu\bin\Debug\Simple Program Menu.exe
+C:\Users\ADMIN\Desktop\PP Namias\Simple Program Menu\Simple Program Menu\bin\Debug\Simple Program Menu.pdb
+C:\Users\ADMIN\Desktop\PP Namias\Simple Program Menu\Simple Program Menu\obj\Debug\Simple Program Menu.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\PP Namias\Simple Program Menu\Simple Program Menu\obj\Debug\Simple Program Menu.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\PP Namias\Simple Program Menu\Simple Program Menu\obj\Debug\Simple Program Menu.exe
+C:\Users\ADMIN\Desktop\PP Namias\Simple Program Menu\Simple Program Menu\obj\Debug\Simple Program Menu.pdb
